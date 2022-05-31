@@ -1,4 +1,7 @@
 This is for 2nd branch
+<<<<<<< HEAD
 I am adding new lines for rebase
 Hi there! Its me
 
+=======
+>>>>>>> parent of c994153 (commit)
